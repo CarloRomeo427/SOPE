@@ -1,0 +1,5 @@
+numpy>=1.24
+torch
+wandb
+gymnasium[mujoco]
+minari[hdf5,hf]
